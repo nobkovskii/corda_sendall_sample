@@ -27,3 +27,7 @@ SendAll、Sendをそれぞれ10回実施した結果です。
 ノードは上記の通り、ードA~E＋Notaryの計6台。  
 CLIでコマンドをポチポチと叩きました。  
 
+単位はms。  
+瞬間風速でも、平均でも、SendAllのほうが優秀という結果がでました。
+
+![image](https://user-images.githubusercontent.com/43230951/88003993-0c6cef80-cb41-11ea-99b9-876a679dfb0d.png)
